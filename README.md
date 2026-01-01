@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Fresher with 3 month of internship experience in data science and analytics..<br>I have hands-on experience in Python, SQL, Power BI, deep learning, ms excel (basics)<br>Im currently learning about NLP, Generative AI.<br>I enjoy developing data-driven project as well as power bi dashboards.<br>I'm very keen for self-development, motivated and eager to learn new tools and technology using social media<br>Looking for opportunity that aligns with my technical skills, soft skills.<br>Contact on : mohdrayyaan69@gmail.com
+I'm Fresher with 3 month of internship experience in data science and analytics..<br>I have hands-on experience in Python, SQL, Power BI, deep learning, ms excel (basics)<br>Im currently learning about NLP, Generative AI.<br>I enjoy developing data-driven project as well as power bi dashboards.<br>Exploring Google Cloud and other products.<br>I'm very keen for self-development, motivated and eager to learn new tools and technology using social media<br>Looking for opportunity that aligns with my technical skills and soft skills.<br>Contact on : mohdrayyaan69@gmail.com
 
 
 ## 🌐 Socials:
